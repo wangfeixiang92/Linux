@@ -14,6 +14,22 @@
 - **CentOS-7.0-x86_64-livecd-1503-01.iso **: 光盘上运行的系统，类拟于winpe
 - **CentOS-7.0-x86_64-minimal-1503-01.iso **: 精简版，自带的软件最少
 
+Linux 安装步骤
+1、首先，使用光驱或U盘或你下载的Linux ISO文件进行安装。
+
+界面说明：
+
+![img](./img/image001.png)
+
+Install or upgrade an existing system 安装或升级现有的系统
+
+install system with basic video driver 安装过程中采用基本的显卡驱动
+
+Rescue installed system 进入系统修复模式
+
+Boot from local drive   退出安装从硬盘启动
+
+Memory test  内存检测
 
 
 
