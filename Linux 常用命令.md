@@ -18,7 +18,7 @@
     time : 设定关机的时间
     message : 传送给所有使用者的警告讯息
 
-
+* shutdown -h -t 10
 * shutdown -h now  立刻关机
 * shutdown  -r now 直接重启
 * shutdown +1  1分钟后关机
