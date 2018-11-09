@@ -313,8 +313,24 @@
     -n    后面接数字 表示几行的意思
     -f     表示持续侦测后面所接的档名，要等到按下[ctrl]-c才会结束tail的侦测
     
-    
-     
+#stat  查看文件的inode信息    
+    Linux 操作系统的文件数据除了文件实际内容外，通常含有非常多的属性，例如 Linux 操作系统的文件权限（rwx）与文件属性（拥有者、群组、时间参数等）。文件系统通常会将这两部分的数据分别存放在不同的区块，权限与属性存放在 inode 中，至于实际数据则放置到 data block 区块中。另外，还有一个超级区块（superblock）会记录整个文件系统的整体信息，包括 inode 与 block 的总量、使用量、剩余量等。
+
+    inode：记录文件的属性，一个文件占用一个 inode，同时记录此文件的数据所在的 block。
+
+    在 Linux 中，可以使用 stat 命令查看某个文件的 inode 信息：
+
+        stat /etc/passwd
+        linux-peanut:~/Desktop # stat /etc/passwd
+          File: `/etc/passwd'
+          Size: 2269          Blocks: 8          IO Block: 4096   regular file
+        Device: 802h/2050d    Inode: 1149740     Links: 1
+        Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+        Access: 2018-04-09 17:16:42.000000000 +0800
+        Modify: 2018-04-09 17:16:36.000000000 +0800
+        Change: 2018-04-09 17:16:36.000000000 +0800
+         Birth: -
+        可见，文件的绝大部分信息都存储在 inode 中。     
     
                   
         
