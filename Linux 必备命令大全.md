@@ -53,6 +53,9 @@
 * diff -y  a.txt b.txt  以并列的方式显示两个文本的差异
 * diff a.txt b.tx -y -W 50 以并列50个字符的宽度展示两个文本之间的差异
 
+#file 辨别文件类型
+
+* file test.js 读取tets.js文件类型
 
 
 
