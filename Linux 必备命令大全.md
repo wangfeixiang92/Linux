@@ -57,6 +57,17 @@
 
 * file test.js 读取tets.js文件类型
 
+#find 查询
+
+* find -name *.txt 查找当前目录下的txt文件
+* find  ./ -name test.js  在当前目录下搜索test.js
+* find  ./ -user wfx   在当前目录下查找属主是wfx的文件
+* find / -mtime -1  查找根目录下一天以内修改的文件
+* sudo find / -ctime -1 查找根目录下一天内新建的文件
+* sudo find -type f  查找当前目录下的文件
+* sudo find -type d 查找当前目录下的目录
+* sudo find -type f -mtime +1 -ok rm {} \; 查找最新修改时间一天以前的文件并删除他们
+* sudo find -type f  -perm 777 -exec ls -l {} \; 查找当前目录下权限是777的文件并列出来
 
 
 # 系统管理
