@@ -69,6 +69,15 @@
 * sudo find -type f -mtime +1 -ok rm {} \; 查找最新修改时间一天以前的文件并删除他们
 * sudo find -type f  -perm 777 -exec ls -l {} \; 查找当前目录下权限是777的文件并列出来
 
+#ln 链接命令
+
+* ln a.txt a.link 创建硬链接
+* ln -s a.txt a.slink 创建软链接
+* ln -b a.txt a.link 覆盖以前的链接
+* ln -sf a.txt a.slink 强制执行操作
+* ln -s /a a.dir 给目录创建软连接
+* ln -iv a.txt a.slink 交互模式（存在会询问），并且显示过程 
+
 
 # 系统管理
 

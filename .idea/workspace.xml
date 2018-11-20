@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f3fb87e-cb76-439e-83d7-3d746ec6b673" name="Default" comment="第10章 yum">
-      <change afterPath="$PROJECT_DIR$/第13章 shell变量.md" afterDir="false" />
+    <list default="true" id="2f3fb87e-cb76-439e-83d7-3d746ec6b673" name="Default" comment="shell变量">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第11章 shell教程.md" beforeDir="false" afterPath="$PROJECT_DIR$/第12章 shell教程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linux 必备命令大全.md" beforeDir="false" afterPath="$PROJECT_DIR$/Linux 必备命令大全.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,28 +15,34 @@
     <session id="1432679320">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="1" />
+          <entry key="md" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="1" />
+          <entry key="Markdown" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="739" />
+          <entry key="md" value="2696" />
+          <entry key="txt" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="739" />
+          <entry key="Markdown" value="2696" />
+          <entry key="PLAIN_TEXT" value="50" />
         </counts>
       </usages-collector>
     </session>
@@ -48,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/第12章 shell教程.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="378">
+              <first_editor relative-caret-position="2375">
                 <caret line="125" column="44" selection-start-line="125" selection-start-column="44" selection-end-line="125" selection-end-column="44" />
               </first_editor>
               <second_editor />
@@ -56,12 +61,46 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/第13章 shell变量.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="435">
+              <first_editor relative-caret-position="2603">
                 <caret line="137" column="23" selection-start-line="137" selection-start-column="23" selection-end-line="137" selection-end-column="23" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Linux 实用命令.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Linux 常用命令.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="2831">
+                <caret line="149" column="1" selection-start-line="149" selection-start-column="1" selection-end-line="149" selection-end-column="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Linux 必备命令大全.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="389">
+                <caret line="78" column="41" selection-start-line="78" selection-start-column="41" selection-end-line="78" selection-end-column="41" />
               </first_editor>
               <second_editor />
             </state>
@@ -71,6 +110,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -79,6 +119,7 @@
         <option value="$PROJECT_DIR$/第10章 Linux yum.md" />
         <option value="$PROJECT_DIR$/第11章 shell教程.md" />
         <option value="$PROJECT_DIR$/第13章 shell变量.md" />
+        <option value="$PROJECT_DIR$/Linux 必备命令大全.md" />
       </list>
     </option>
   </component>
@@ -89,10 +130,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="256" />
-    <option name="y" value="83" />
+    <option name="x" value="364" />
+    <option name="y" value="81" />
     <option name="width" value="1471" />
-    <option name="height" value="694" />
+    <option name="height" value="691" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -152,7 +193,12 @@
       <option name="presentableId" value="Default" />
       <updated>1541822554874</updated>
       <workItem from="1541822556060" duration="4333000" />
-      <workItem from="1541991385786" duration="5298000" />
+      <workItem from="1541991385786" duration="20214000" />
+      <workItem from="1542187211809" duration="1649000" />
+      <workItem from="1542261471348" duration="70000" />
+      <workItem from="1542348207042" duration="2865000" />
+      <workItem from="1542679098207" duration="3510000" />
+      <workItem from="1542707848460" duration="3322000" />
     </task>
     <task id="LOCAL-00001" summary="第10章 yum">
       <created>1541824066761</created>
@@ -161,21 +207,46 @@
       <option name="project" value="LOCAL" />
       <updated>1541824066761</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="shell变量">
+      <created>1542022696168</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542022696168</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Linux命令整理">
+      <created>1542095263392</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542095263392</updated>
+    </task>
+    <task id="LOCAL-00004" summary="file">
+      <created>1542356468286</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542356468286</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Linux必备命令+find">
+      <created>1542707893286</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1542707893286</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9631000" />
+    <option name="totallyTimeSpent" value="35963000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="256" y="83" width="1471" height="694" extended-state="0" />
-    <editor active="true" />
+    <frame x="364" y="81" width="1471" height="691" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.25301206" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.20765415" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -183,9 +254,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32854578" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32857144" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3297491" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -195,12 +268,42 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第10章 yum" />
-    <option name="LAST_COMMIT_MESSAGE" value="第10章 yum" />
+    <MESSAGE value="shell变量" />
+    <MESSAGE value="Linux命令整理" />
+    <MESSAGE value="file" />
+    <MESSAGE value="Linux必备命令+find" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linux必备命令+find" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/第10章 Linux yum.md">
@@ -216,7 +319,7 @@
     <entry file="file://$PROJECT_DIR$/第12章 shell教程.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="378">
+          <first_editor relative-caret-position="2375">
             <caret line="125" column="44" selection-start-line="125" selection-start-column="44" selection-end-line="125" selection-end-column="44" />
           </first_editor>
           <second_editor />
@@ -226,8 +329,36 @@
     <entry file="file://$PROJECT_DIR$/第13章 shell变量.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="435">
+          <first_editor relative-caret-position="2603">
             <caret line="137" column="23" selection-start-line="137" selection-start-column="23" selection-end-line="137" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linux 实用命令.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linux 常用命令.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2831">
+            <caret line="149" column="1" selection-start-line="149" selection-start-column="1" selection-end-line="149" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linux 必备命令大全.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="389">
+            <caret line="78" column="41" selection-start-line="78" selection-start-column="41" selection-end-line="78" selection-end-column="41" />
           </first_editor>
           <second_editor />
         </state>
